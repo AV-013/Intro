@@ -5,3 +5,5 @@ Bentley
 Porsche
 Ferrari
 Laemborghini
+Volvo
+Hummer
